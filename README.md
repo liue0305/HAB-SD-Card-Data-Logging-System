@@ -3,8 +3,6 @@ This code's purpose is to create a logging system that will record more volatile
 The modlues that I used are the following: 
 
 - MPU 6500: Gyroscope and Accelerometer data
-- Ultimate Adafruit GPS Breakout Board: GPS location data
-- Temperature Sensor DS18B20: Temperature data
 - BME280: Pressure and humidity sensor
 - HiLetgo SD Card Module: Stores data
 
